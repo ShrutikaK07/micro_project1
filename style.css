@@ -1,0 +1,158 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.firstcol{
+    position: relative;
+    background-color: rgba(255, 205, 158, 1);
+    height: 67vh;
+
+}
+.secoundcol{
+    background-color: rgba(40, 40, 40, 1);
+    height: 33vh;
+}
+#f1{
+   
+     color: #282828;
+     font-size: 20px;
+     text-align: left;
+     width: 550px;
+     line-height: 55px;
+     position: absolute;
+     letter-spacing: 0em;
+     top: 60px; left: 50px;
+}
+#f2{
+    font-size: 20px;
+    text-align: left;
+    width: 500px;
+    line-height: 40px;
+    position: absolute;
+    letter-spacing: 0em;
+    top: 180px; left: 50px;
+    color: #484848;;
+}
+#f3{
+    font-size: 20px;
+    text-align: left;
+    width: 500px;
+    line-height: 45px;
+    position: absolute;
+    letter-spacing: 0em;
+    top: 300px; left: 50px;
+}
+.input{
+    position: relative;
+    top: 40px;
+}
+#box1{
+    
+    height: 40px;
+    position: absolute;
+    top: 340px;
+    left: 50px;
+    border-radius: 6px;
+    border: 3px solid black;
+    line-height: 55px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #888888;
+    background-color: #FFFFFF;
+}
+#box2{
+    background-color:black;
+    width: 250px;
+    height: 45px;
+    color: white;
+    line-height: 30px;
+    position: absolute;
+    border-radius: 6px;
+    text-align: center;
+    top: 340px; left: 350px;
+    padding: 6px;
+}
+
+#f4{
+    
+    font-weight: bold;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 400px;left: 80px;
+
+}
+.list{
+    position: relative;
+}
+
+#list2{
+    list-style: none;
+    flex: 1;
+    text-align: left;
+    justify-content: flex-end;
+    padding-left: 110px;
+    padding-top: 50px;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: rgba(255, 255, 255, 1);
+    
+   
+
+}
+#list3{
+    
+   
+    text-align: right;
+    list-style: none;
+    padding-top: 0px ;
+    flex: 1;
+    justify-content: flex-end;
+    padding-right: 110px;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: rgba(255, 255, 255, 1);
+
+
+
+
+}
+#list4{
+    
+    text-align: right;
+    list-style: none;
+    flex: 1;
+    justify-content: flex-end;
+    padding-right: 110px;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: rgba(255, 255, 255, 1);
+
+
+}
+
+#logo1{
+    width: 29.41px;
+    height: 27.42px;
+    position: absolute;
+    top: 50px;right: 100px;
+    text-align: end;
+
+}
+#logo2{
+    width: 29.41px;
+    height: 27.42px;
+    position: absolute;
+    top: 50px;right: 130px;
+    text-align: end;
+
+}
+#vector{
+    width: 393.52px;
+    height: 402.45px;
+    position: absolute;
+    top: 30px;right: 130px;
+    text-align: end;
+
+}
